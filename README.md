@@ -8,7 +8,7 @@ We implemented ranking algorithms such as TF-IDF with cosine similarity, BM25, P
 Finally, we obtain and display top results matching the user query.
 
 This project is a collaborative effort among the following graduate students at WPI, as a part of CS547 coursework:
-Janani Sankarasubramanian
-Kartik Nautiyal
+Janani Sankarasubramanian,
+Kartik Nautiyal,
 Nikhil Gunale
 
